@@ -1,0 +1,5 @@
+C:\Users\momagdy\OneDrive - VMware, Inc\VMwareCorp\Documents\Visual Studio 2022\Mohamed Projects\CalculatorConsoleApp.exe
+C:\Users\momagdy\OneDrive - VMware, Inc\VMwareCorp\Documents\Visual Studio 2022\Mohamed Projects\CalculatorConsoleApp.dll
+C:\Users\momagdy\OneDrive - VMware, Inc\VMwareCorp\Documents\Visual Studio 2022\Mohamed Projects\CalculatorConsoleApp.deps.json
+C:\Users\momagdy\OneDrive - VMware, Inc\VMwareCorp\Documents\Visual Studio 2022\Mohamed Projects\CalculatorConsoleApp.runtimeconfig.json
+C:\Users\momagdy\OneDrive - VMware, Inc\VMwareCorp\Documents\Visual Studio 2022\Mohamed Projects\CalculatorConsoleApp.pdb

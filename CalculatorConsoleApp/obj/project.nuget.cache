@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "vAbVSoBxFLw8UDYAfOObGzwI1qUGsSgSsCCybPNb8HSQRz4GQXbVPkF2Ha4FixREMdnLrYuZa9DieL6CJvfH3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\momagdy\\source\\repos\\CalculatorConsoleApp\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\momagdy\\.nuget\\packages\\devmagicfake\\1.0.0\\devmagicfake.1.0.0.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\momagdy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DevMagicFake 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DevMagicFake",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
